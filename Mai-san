@@ -1,6 +1,6 @@
 -//META{"name":"Mai-san","description":"Our precious Bunny Girl Senpai","author":"Angrod","version":"1"}*//{}
 
-.app-2rEoOp { background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://images8.alphacoders.com/994/994291.pngbackground-size: cover; } .standardSidebarView-3F1I7i { background-image: url(https://images8.alphacoders.com/994/994291.png); background-size: cover; }
+.app-2rEoOp { background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://images8.alphacoders.com/994/994291.png) ;background-size: cover; } .standardSidebarView-3F1I7i { background-image: url(https://images8.alphacoders.com/994/994291.png); background-size: cover; }
 
 .placeholder-37qJjk, .slateTextArea-1Mkdgw .hljs-comment, .slateTextArea-1Mkdgw .hljs-quote { color: white; }
 
